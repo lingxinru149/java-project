@@ -16,12 +16,13 @@ public class tanxiaohao {
 	public void setId(int id) {
 		this.id = id;
 	}
-	public int getAge() {
-		return age;
+	public int getName() {
+		return name;
 	}
-	public void setAge(int age) {
-		this.age = age;
+	public void setName(int name) {
+		this.name = name;
 	}
+	
 	
 	
 }

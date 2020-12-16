@@ -6,7 +6,7 @@ public class test {
 		return id;
 	}
 	public void setid(int id){
-		this.id=id;
+		this.id=id+10;
 	}
 
 	

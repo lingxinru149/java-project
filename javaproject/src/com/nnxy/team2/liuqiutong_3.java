@@ -7,7 +7,7 @@ public class liuqiutong_3 {
 	
 	
 	public int getId() {
-		return id;
+		return id+10;
 	}
 
 
