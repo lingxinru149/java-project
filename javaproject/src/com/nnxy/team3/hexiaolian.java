@@ -1,9 +1,12 @@
 package com.nnxy.team3;
 
 public class hexiaolian {
+	private int id;
+	private String name;
+	private int age;
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 
 	}
 
