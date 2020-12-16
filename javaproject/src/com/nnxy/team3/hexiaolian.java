@@ -10,7 +10,7 @@ public class hexiaolian {
 
 	}
 	public int getId() {
-		return id+100;
+		return id+10;
 	}
 
 	public void setId(int id) {
