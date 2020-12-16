@@ -3,7 +3,7 @@ package com.nnxy.team100;
 public class tanxiaohao {
 	private int qqhao;
 	private int id;
-	private int age;
+	private int name;
 	public int getQqhao() {
 		return qqhao;
 	}
