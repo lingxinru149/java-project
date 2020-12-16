@@ -1,15 +1,15 @@
 package com.nnxy.team4;
 
 public class suyangli_3 {
-	private int id;
+	private int ID;
 	public int getid() {
 		
-		return id;
+		return ID;
 	}
 	
-	public void setID(int id) {
+	public void setID(int ID) {
 		
-		this.id = id;
+		this.ID = ID;
 	}
 
 }
