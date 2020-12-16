@@ -5,7 +5,7 @@ public class tanxiaohao {
 	private int id;
 	private int name;
 	public int getQqhao() {
-		return qqhao;
+		return qqhao+110;
 	}
 	public void setQqhao(int qqhao) {
 		this.qqhao = qqhao;

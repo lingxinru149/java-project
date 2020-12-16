@@ -5,7 +5,7 @@ public class yanglanzhen_3 {
 	
 	private int name;
 	public int getName(){
-		return name;
+		return name+100;
 		
 	}
 	
