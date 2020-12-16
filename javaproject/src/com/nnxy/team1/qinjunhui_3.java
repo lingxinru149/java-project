@@ -6,7 +6,7 @@ public class qinjunhui_3 {
 	private int age;
 	
 	public int getId() {
-		return id + 22222;
+		return id + 555225;
 	}
 	public void setId(int id) {
 		this.id = id;
