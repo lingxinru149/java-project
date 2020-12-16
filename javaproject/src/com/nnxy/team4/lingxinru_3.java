@@ -5,7 +5,7 @@ public class lingxinru_3 {
 	private int id;
 	public int getid() {
 		
-		return id + 200 ;
+		return id + 202 ;
 	}
 	
 	public void setID(int id) {
