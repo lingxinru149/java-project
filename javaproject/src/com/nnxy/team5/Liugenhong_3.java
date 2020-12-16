@@ -4,7 +4,7 @@ public class Liugenhong_3 {
 
 	
 
-		private int id;
+		private int id;//123
 		
 		
 		public int getid()
