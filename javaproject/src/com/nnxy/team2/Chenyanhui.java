@@ -1,28 +1,37 @@
-package com.nnxy.team1;
+package com.nnxy.team2;
 
-public class qinjunhui_3 {
+public class Chenyanhui {
 	private int id;
 	private String name;
-	private int age;
+	
+	
 	
 	public int getId() {
-		return id + 555225;
+		return id;
 	}
+
+
+
 	public void setId(int id) {
 		this.id = id;
 	}
+
+
+
 	public String getName() {
 		return name;
 	}
+
+
+
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getAge() {
-		return age;
-	}
-	public void setAge(int age) {
-		this.age = age;
-	}
-	
-	
+
+
+
+	public static void main(String[] args) {
+		
+		System.out.println("liuqiutong");
+   }
 }
