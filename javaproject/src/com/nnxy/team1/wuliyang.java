@@ -1,8 +1,8 @@
 package com.nnxy.team1;
 
 public class wuliyang {
-	private int id;//id
-	private String name;姓名
+	private int id;
+	private String name;
 
 	public String getName() {
 		return name;
